@@ -29,9 +29,12 @@ So he took Google Chrome v8 JavaScript Engine and embedded inside a C++ code and
 
 We cant use document or window object such as
 
+
+
 ~~document.getElementById()~~
 
 Instead, we have objects:
+
 
 ```javascript
 
