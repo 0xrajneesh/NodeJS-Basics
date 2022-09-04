@@ -33,11 +33,11 @@ Instead, we have objects:
 
 ```javascript
 
-fs.access(path[, mode], callback)
-dir.path
-dir.read()
-os.hostname()
-os.platform()
+fs.access(path[, mode], callback) // access file
+dir.path //  read-only path of this directory
+dir.read() // Asynchronously read 
+os.hostname() // Returns the host name
+os.platform() // Returns a string identifying the operating system platform
 
 
 ```
