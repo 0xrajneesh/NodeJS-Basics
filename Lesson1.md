@@ -12,9 +12,9 @@ It is used to build the API(Application prgramming Interface) to enable client a
 There are several back-end frameworks and modeuls such as Django, ASP.NET still NodeJS popular because of three reasons:
 
 <!-- UL -->
-**🚀Fast and highly scalable**: Used by organizations such Paypal, Uber, Wallmart etc
-**👨‍💻Use JavaScript**: It allows front-end developers who know JavaScript, it's easy for them to get started with a brand new projects and also get them grow their career faster.
-**🙌Benefits of Large Open-Source Libs**: NodeJS has got the largest ecosystem of open-source code on Github as a result, you get better support.
+* **Fast and highly scalable🚀**: Used by organizations such Paypal, Uber, Wallmart etc
+* **Use JavaScript👨‍💻**: It allows front-end developers who know JavaScript, it's easy for them to get started with a brand new projects and also get them grow their career faster.
+* **Benefits of Large Open-Source Libs🙌**: NodeJS has got the largest ecosystem of open-source code on Github as a result, you get better support.
 
 ## 🔷Node Architecture
 
