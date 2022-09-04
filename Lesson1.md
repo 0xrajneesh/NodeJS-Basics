@@ -52,5 +52,42 @@ With Node, you can build highly-scalable, data-intensive and real-time applicati
 
 In async programming the program doesn’t wait for the task to complete and can move on to the next task.
 
+## 🔷 Installing Node
+
+1. Download NodeJS from [nodejs](https://nodejs.org/)
+1. Verify if the installation is successful.
+   ```
+   ~$ node --version
+   v17.9.1
+   ```
+
+## 🔷 Simple NodeJS Program
+
+Lets get started!
+
+```
+mkdir firstCode \\ create a directory
+
+cd firstCode   \\ move to directory
+
+code .        \\ open yoru default Code editor
+```
+set the file name firstCode.js
+
+```javascript
+
+function greeter(greet) {
+    console.log(greet);
+}
+
+greeter("Good Morning!")
 
 
+```
+
+To execute your code
+```javascript
+
+~$ node firstCode.js
+
+```
