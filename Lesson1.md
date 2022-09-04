@@ -47,5 +47,10 @@ os.platform() // Returns a string identifying the operating system platform
 
 ```
 
+## 🔷 Asynchronous/ Non-Blocking
+With Node, you can build highly-scalable, data-intensive and real-time applications. This is because of the Asynchronous/ Non-Blocking feature.
+
+In async programming the program doesn’t wait for the task to complete and can move on to the next task.
+
 
 
