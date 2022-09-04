@@ -21,3 +21,26 @@ In 2009, Ryal Dahl(creator of Node) thought why if we can take out Javascript fr
 So he took Google Chrome v8 JavaScript Engine and embedded inside a C++ code and named this program Node.exe. 
 
 ![jsengine](./Assets/jsengine.png)
+
+
+## Capabilities of NodeJS
+
+We cant use document or window object such as
+
+~~document.getElementById()~~
+
+Instead, we have objects:
+
+```javascript
+
+fs.access(path[, mode], callback)
+dir.path
+dir.read()
+os.hostname()
+os.platform()
+
+
+```
+
+
+
