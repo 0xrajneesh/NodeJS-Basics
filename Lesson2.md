@@ -17,3 +17,11 @@ setInterval() // executes the callback function at repeated intervals
 setTimeout() // to run a callback function after at least delay in milliseconds.
 
 ```
+
+## 🔷Modules
+
+To avoid yoru function defination getting override with function in another file, we tend to avoid function with global scope rather we use modular approach.
+
+Modules are nothing a File.
+
+
